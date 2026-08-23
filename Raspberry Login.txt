@@ -1,0 +1,10 @@
+Hostname : raspberrypi.local
+Password : raspberrypi
+Username : pi
+
+cmd command : ssh pi@raspberrypi
+
+
+sudo apt update
+
+sudo raspi-config
